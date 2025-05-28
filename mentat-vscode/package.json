@@ -192,7 +192,7 @@
         "@types/vscode": "1.74.0",
         "@types/vscode-webview": "1.57.2",
         "@vscode/vsce": "^2.22.0",
-        "esbuild": "0.19.4",
+        "esbuild": "0.25.0",
         "eslint": "8.51.0",
         "react": "18.2.0",
         "react-dom": "18.2.0",
